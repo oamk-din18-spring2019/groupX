@@ -1,2 +1,1 @@
-echo 'Welcome Jim';
-
+echo 'Welcome Ann and Jim';
